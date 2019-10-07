@@ -1,3 +1,3 @@
-- hi there
+- hi there, bye there
 - my name is bilbo
 - i have the ring
